@@ -41,6 +41,8 @@ Mulai install library:
 
 Jalankan project:
 `npm run dev`
+apabila terdapat error nodemon pastikan untuk menginstall nodemon terlebih dahulu dengan ketik:
+`npm i -g nodemon`
 
 Aplikasi penguji rate limiter:
 `node testRateLimit.js`
