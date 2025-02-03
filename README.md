@@ -11,7 +11,7 @@ Implementasi membuat Restful API (REST Server) yang disertai dengan autentikasi/
 4.⁠ ⁠Samuel Abraham (20210801313)
 5.⁠ ⁠Reivandy Alvito Maurico S. (20220801521)
 
-# Teknologi Yang Digunakan
+# Teknologi, Lib/Framework Yang Digunakan
 - NodeJs v22.11.0
 - axios: 1.7.9
 - bcryptjs: 2.4.3
@@ -27,6 +27,22 @@ Implementasi membuat Restful API (REST Server) yang disertai dengan autentikasi/
 - Simulasi Login untuk generate JWT
 - Simulasi Akses ke API menggunakan JWT
 - Simulasi Implementasi Rate limit
+
+# Cara menjalankan project
+Lakukan clone project di github jika belum memiliki:
+`git clone https://github.com/panjivj/uas-abl.git`
+
+buka folder project:
+`cd uas-abl`
+
+Mulai install library:
+`npm install`
+
+Jalankan project:
+`npm run dev`
+
+Aplikasi penguji rate limiter:
+`node testRateLimit.js`
 
 # Struktur Project
 /
