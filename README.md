@@ -19,6 +19,7 @@ Implementasi membuat Restful API (REST Server) yang disertai dengan autentikasi/
 - express: 4.21.2
 - express-rate-limit: 7.5.0
 - jsonwebtoken: 9.0.2
+- nodemon: 3.1.9
 
 # Demo yang akan Dilakukan
 - Penjelasan pada masing-masing kode file
